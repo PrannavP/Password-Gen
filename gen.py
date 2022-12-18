@@ -2,7 +2,7 @@ import random
 
 letters = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'
 numbers = '0123456789'
-symbols = '!@$&./'
+symbols = '!@#$%^&*()|?:;<>,.'
 
 password = []
 
